@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becoming an front-end developer!
+- 🌱 I’m currently learning more about web development, javascript and the basics of React!
+- 🤔 I’m looking for an intership
+
 <!--
 **SBindels/SBindels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
